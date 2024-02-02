@@ -1,5 +1,6 @@
 import java.awt.Color;
 
+// linoy feedback: I checked 2 HW you did and it was very good! good job :)
 public class Editor4 {
     public static void main (String[] args) {
 		String source = "thor.ppm";
